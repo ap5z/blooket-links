@@ -26,7 +26,7 @@ Example:
 If your app is deployed under a Blooket path like:
 - `/gs/NS4xODguMTI0LjY3OjkwMDA=/`
 
-then asset URLs must be built against that exact path.
+then asset URLs must be built against that exact path. (or i just realized u can use hash router lol thanks derpman)
 
 ## Compatibility
 this ONLY supports GET requests, no WebSocket or POST request will work
