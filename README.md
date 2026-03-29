@@ -30,6 +30,9 @@ then asset URLs must be built against that exact path. (or i just realized u can
 
 ## Compatibility
 this ONLY supports GET requests, no WebSocket or POST request will work
+## Discord
+https://discord.gg/ZDq3UYskkK
+
 # credits
 [ap5z](https://github.com/ap5z) figuring out http stuff
 <br>
