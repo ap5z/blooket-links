@@ -32,5 +32,7 @@ then asset URLs must be built against that exact path.
 this ONLY supports GET requests, no WebSocket or POST request will work
 # credits
 [ap5z](https://github.com/ap5z) figuring out http stuff
+<br>
 [ching](https://github.com/chingX64) figuring out http stuff
+<br>
 [x8rr](https://github.com/x8rr) discovering the blooket method and figuring out that you at least need a HTTP only domain
